@@ -19,7 +19,7 @@ struct ContentView: View {
         NavigationStack {
             VStack {
             }
-            .navigationTitle("Tamagotchi App 😎")
+            .navigationTitle("Test repo push - App 😎")
             .navigationSubtitle("By Toby Nash")
         }
     }
